@@ -34,7 +34,7 @@ Then Quickfront will automatically load the data from the server and display it 
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>LazyKit</title>
+    <title>quickfront</title>
 </head>
 
 <body>
