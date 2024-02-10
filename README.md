@@ -48,3 +48,7 @@ Then Quickfront will automatically load the data from the server and display it 
 
 </html>
 ```
+
+## License
+
+Licensed under the MIT License.
